@@ -10,3 +10,8 @@ class calcutator:
     def div(self,x,y):
         return x / y
    
+
+X = 10
+
+Y = 20
+print(X)
